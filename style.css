@@ -258,7 +258,7 @@ td, th {
 
 @media screen and (max-width: 480px) {
 
-	.caixa, .principal, .conteudo-beneficios,
+	.caixa, .principal, .conteudo-beneficios,{
 		width: auto;
 	}
 
@@ -272,3 +272,10 @@ td, th {
 		width: 100%;
 	}
 }
+
+.form1{
+	display: block;
+	left: 30px;
+}
+
+
